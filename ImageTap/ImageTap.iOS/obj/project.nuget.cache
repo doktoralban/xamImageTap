@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/gKAKmGB30FF77txYxrSTUnLmvvUkSOSTk1qBrUrfZNjVEMUQYih1B1Z8m6dGpWvDjnJFhtkeBfOlZwqXbMDsQ==",
+  "success": true,
+  "projectFilePath": "C:\\prjS\\_xamarinPrjs\\ImageTap\\ImageTap\\ImageTap.iOS\\ImageTap.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\xamarin.forms\\4.4.0.991477\\xamarin.forms.4.4.0.991477.nupkg.sha512"
+  ],
+  "logs": []
+}

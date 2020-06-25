@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3Dw5BnZb2XrcBS3zn/eqPfhWtuoVewAql4+b2KoB+Ka2hrH6OjTyh91ja0uvP+9R61ObawP89rcrASzCk8n6lg==",
+  "success": true,
+  "projectFilePath": "C:\\prjS\\_xamarinPrjs\\ImageTap\\ImageTap\\ImageTap\\ImageTap.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\xamarin.forms\\4.4.0.991477\\xamarin.forms.4.4.0.991477.nupkg.sha512"
+  ],
+  "logs": []
+}

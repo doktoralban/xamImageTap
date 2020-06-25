@@ -1,0 +1,1 @@
+C:\prjS\_xamarinPrjs\xamarin-forms-book-samples-master\Chapter13\ImageTap\ImageTap\ImageTap.UWP\ImageTap.UWP.csproj;x86
